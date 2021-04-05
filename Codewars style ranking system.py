@@ -79,3 +79,5 @@ class User:
                 #print("Max rank reach.")
                 break
         #print("Ending Rank:",self.rank)
+        
+        
